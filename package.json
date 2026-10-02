@@ -1,0 +1,7 @@
+{
+  "name": "cinebox-cinema",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive movie discovery UI powered by MovieBox public catalog endpoints",
+  "engines": { "node": ">=20" }
+}
